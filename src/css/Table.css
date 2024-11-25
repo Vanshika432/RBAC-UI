@@ -1,0 +1,16 @@
+.table-main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.table-heading{
+    text-align: center;
+}
+
+.add-button{
+    width: fit-content;
+    height: fit-content;
+}
